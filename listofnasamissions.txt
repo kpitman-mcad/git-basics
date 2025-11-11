@@ -11,4 +11,8 @@ International Space Station, dates: 1993 to Ongoing, Notes: Joint with Roscosmos
 Commercial Crew Program, dates: 2011 to Ongoing, Notes: Current program to shuttle Americans to the ISS
 Artemis program, dates: 2017 to Ongoing, Notes: Current program to bring humans to the Moon again
 
+List of Mercury Missions:
+Mariner program, dates: 1973, Notes: flyby of Venus; multiple flybys of Mercury; first spacecraft to Mercury
+Discovery program, dates: 2004, Notes: first to orbit Mercury
+
 Source: https://en.wikipedia.org/wiki/List_of_NASA_missions
