@@ -1,0 +1,12 @@
+List of Major Nasa Missions:
+
+Mercury program, dates: 1958 to 1961, Notes: First U.S. crewed program
+Gemini program, dates: 1961 to 1966, Notes: Program used to practice space rendezvous and EVAs
+Apollo program, dates: 1960 to 1972, Notes: Landed first humans on the Moon
+Skylab, dates: 1964 to 1974, Notes: First American space station
+Apollo–Soyuz Test Project, dates: 1971 to 1975, Notes: Joint with Soviet Union
+Space Shuttle program, dates: 1972 to 2011, Notes: First missions in which a spacecraft was reused
+Shuttle-Mir program, dates: 1993 to 1998, Notes: Russian partnership
+International Space Station, dates: 1993 to Ongoing, Notes: Joint with Roscosmos, CSA, ESA, and JAXA; Americans flew on Russian Soyuz after 2011 retirement of Space Shuttle
+Commercial Crew Program, dates: 2011 to Ongoing, Notes: Current program to shuttle Americans to the ISS
+Artemis program, dates: 2017 to Ongoing, Notes: Current program to bring humans to the Moon again
