@@ -1,0 +1,6 @@
+List of Mercury Missions:
+
+Mariner program, dates: 1973, Notes: flyby of Venus; multiple flybys of Mercury; first spacecraft to Mercury
+Discovery program, dates: 2004, Notes: first to orbit Mercury
+
+Source: https://en.wikipedia.org/wiki/List_of_NASA_missions
